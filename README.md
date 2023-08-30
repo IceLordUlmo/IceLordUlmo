@@ -1,6 +1,6 @@
   ### Hi there 👋 I'm Brian
 
-  I started programming with GORILLAS.BAS in MS-DOS and have loved it ever since.
+  My interest in programming started at a young age, when my family acquired a floppy disk with a few games on it from a garage sale for our 386/25mhz Gateway 2000 computer. It had four megabytes of RAM; who could ever dream of needing more? After poking around on the hard drive for a bit I discovered GORILLAS.BAS, and found out how to take the safeties off the velocity and angle parameters for the exploding bananas. From there I went on to check out every book I could find at the library concerning programming.
   
   ### Technologies:
   
